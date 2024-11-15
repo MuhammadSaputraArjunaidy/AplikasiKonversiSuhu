@@ -4,7 +4,7 @@
 
 
 # Deskripsi
- aplikasi ini memungkinkan pengguna untuk mengkonversi suhu dari satu skala ke skala lainnya. Pengguna cukup memasukkan nilai suhu, memilih skala suhu awal dan tujuan, kemudian menekan tombol "Konversikan" untuk melihat hasil konversinya.
+aplikasi ini memungkinkan pengguna untuk mengkonversi suhu dari satu skala ke skala lainnya. Pengguna cukup memasukkan nilai suhu, memilih skala suhu awal dan tujuan, kemudian menekan tombol "Konversikan" untuk melihat hasil konversinya.
 # Features
 
 Berikut adalah deskripsi fitur-fitur utama aplikasi ini:
@@ -27,11 +27,10 @@ Berikut adalah deskripsi fitur-fitur utama aplikasi ini:
 
 4. Hasil Konversi:
 
--  Konversi: Kolom teks untuk menampilkan hasil konversi suhu sesuai dengan pilihan yang telah ditentukan.
-# Source Code
-
-```
- import javax.swing.JOptionPane;
+-  Konversi: Kolom teks untuk menampilkan hasil konversi suhu sesuai dengan pilihan yang telah ditentukan. 
+ # Source Code
+ ```java
+   import javax.swing.JOptionPane;
 
 public class KonversiSuhuForm extends javax.swing.JFrame {
 
@@ -330,9 +329,12 @@ public class KonversiSuhuForm extends javax.swing.JFrame {
 
 }
 
-        ```
+```
 
-## Authors
+
+
+
+# Authors
 
 - MuhammadSaputraArjunaidy
 - 2210010300
@@ -340,4 +342,4 @@ public class KonversiSuhuForm extends javax.swing.JFrame {
 - [@MuhammadSaputraArjunaidy](https://www.github.com/MuhammadSaputraArjunaidy)
 
 
-## Screenshot
+#  Screenshot
