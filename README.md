@@ -343,3 +343,5 @@ public class KonversiSuhuForm extends javax.swing.JFrame {
 
 
 #  Screenshot
+
+![image](https://github.com/user-attachments/assets/9d617f73-1f6a-47b3-9b86-faa58b37a146)
